@@ -209,7 +209,7 @@ def menuEN():
         except ValueError:
             print("INPUTAN SALAH SILAHKAN INPUT DENGAN BENAR \n")
 
-# Mengambil Value Array japa, hiphop, english yang beraaa di dalam child class
+# Mengambil Value Array japan, hiphop, english yang beraaa di dalam child class
 playlist.extend(japan_music.japan)
 playlist.extend(hiphop_music.hiphop)
 playlist.extend(english_music.english)
